@@ -20,7 +20,7 @@ external dependencies:
 run command:
 	python leaf_classification.py ./data/dataset_diseased_leafs.npy ./data/dataset_health_leafs.npy
 
-when you run demo, you are goint to see the next menu:
+when you run demo, you are going to see the next menu:
 Training
 1. Classify with SVIs
 2. Classify with PCA (ten components)
